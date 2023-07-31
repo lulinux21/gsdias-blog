@@ -11,6 +11,14 @@
   background-color: aquamarine;
 }
 
+.card-item-secondary {
+  max-width: 270px;
+  width: 100%;
+  min-height: 100px;
+  margin-bottom: 20px;
+  background-color: aquamarine;
+}
+
 .primary-news,
 .secondary-news {
   margin-bottom: 30px;
