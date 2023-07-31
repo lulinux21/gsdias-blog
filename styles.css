@@ -17,6 +17,13 @@
   margin-bottom: 30px;
 }
 
+.secondary-news {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  border: 1px solid;
+}
+
 .news-box-image {
   padding: 0;
   margin: 0;
